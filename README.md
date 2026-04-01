@@ -1,4 +1,4 @@
-# **Striver A2Z DSA Sheet Solution using JAVA** 🔥🎯
+# **Striver A2Z DSA Sheet Solution using JAVA** 
 
 > ### _[Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 🚀 by [Raj Vikramaditya / Striver](https://www.linkedin.com/in/rajstriver/)(Founder of takeUforward). This repository contains Solution code using JAVA with different approaches and explanation._
 
@@ -6,7 +6,7 @@
 ### [takeUForward Youtube Channel Link](https://www.youtube.com/@takeUforward)
 
 
-## 🔥 **Clone this Repository** 💫
+## **Clone this Repository** 
 
 You need to write the following commands on the terminal screen(in vscode) to clone this repository.
 
@@ -15,7 +15,7 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 ```
 
 
-## 👨‍💻 **Contents** 👀
+## **Contents** 
 💻 [**Step 01 : Learn the basics**](./Step%2001%20:%20Learn%20the%20basics/)
 - [Lec 1: Things to Know in C++/Java/Python or any language](./Step%2001%20:%20Learn%20the%20basics/Lec%201:%20Things%20to%20Know%20in%20Java%20or%20any%20language/)
 - [Lec 2: Build-up Logical Thinking](./Step%2001%20:%20Learn%20the%20basics/Lec%202:%20Build-up%20Logical%20Thinking/)
@@ -66,7 +66,7 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 - [Lec 4: Implementation Problems](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/Lec%204:%20Implementation%20Problems/)
 
 
-## 🔗 **Let's Connect** 🤝
+## 🔗 **Let's Connect** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044)
